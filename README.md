@@ -11,6 +11,12 @@ AI Telegram bot powered by DeepSeek API and aiogram.
 - Ukrainian language support
 - Cisco / MikroTik / networking help
 
+## Screenshot
+
+![Bot Screenshot](images/bot-screenshot1.jpg)
+![Bot Screenshot](images/bot-screenshot2.jpg)
+![Bot Screenshot](images/bot-screenshot3.jpg)
+
 ## Technologies
 
 - Python
